@@ -1,1 +1,0 @@
-Este proyecto consiste en un blog sobre los rascacielos. Por lo pronto sólo hay poca información, que se irá aumentando mediante las subidas de código con cada actividad.
